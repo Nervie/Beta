@@ -1,0 +1,139 @@
+10
+
+dir
+5
+svn://nervie.com/nervie/betasvn/trunk/lib/Cake/Console/Templates/skel
+svn://nervie.com/nervie/betasvn
+
+
+
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a14a718f-d21a-472e-8aa4-9480a30be4d8
+
+
+
+
+
+
+0
+
+.htaccess
+file
+
+
+
+
+2011-07-26T14:50:26.000000Z
+5271a9e66c99c84c092d7fd81cebcd57
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+141
+
+Config
+dir
+
+Console
+dir
+
+Controller
+dir
+
+Lib
+dir
+
+Locale
+dir
+
+Model
+dir
+
+Plugin
+dir
+
+Test
+dir
+
+Vendor
+dir
+
+View
+dir
+
+index.php
+file
+
+
+
+
+2011-07-26T14:50:26.000000Z
+0e1c24f82c65c3b3b2eda80ae86c8bd3
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+642
+
+tmp
+dir
+
+webroot
+dir
+

@@ -1,0 +1,130 @@
+10
+
+dir
+5
+svn://nervie.com/nervie/betasvn/trunk/lib/Cake/Test/test_app/Locale
+svn://nervie.com/nervie/betasvn
+
+
+
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a14a718f-d21a-472e-8aa4-9480a30be4d8
+
+cache_test_po
+dir
+
+ja_jp
+dir
+
+po
+dir
+
+rule_0_mo
+dir
+
+rule_0_po
+dir
+
+rule_10_mo
+dir
+
+rule_10_po
+dir
+
+rule_11_mo
+dir
+
+rule_11_po
+dir
+
+rule_12_mo
+dir
+
+rule_12_po
+dir
+
+rule_13_mo
+dir
+
+rule_13_po
+dir
+
+rule_14_mo
+dir
+
+rule_14_po
+dir
+
+rule_1_mo
+dir
+
+rule_1_po
+dir
+
+rule_2_mo
+dir
+
+rule_2_po
+dir
+
+rule_3_mo
+dir
+
+rule_3_po
+dir
+
+rule_4_mo
+dir
+
+rule_4_po
+dir
+
+rule_5_mo
+dir
+
+rule_5_po
+dir
+
+rule_6_mo
+dir
+
+rule_6_po
+dir
+
+rule_7_mo
+dir
+
+rule_7_po
+dir
+
+rule_8_mo
+dir
+
+rule_8_po
+dir
+
+rule_9_mo
+dir
+
+rule_9_po
+dir
+
+time_test
+dir
+

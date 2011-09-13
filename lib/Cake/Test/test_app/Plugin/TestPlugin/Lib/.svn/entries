@@ -1,0 +1,81 @@
+10
+
+dir
+5
+svn://nervie.com/nervie/betasvn/trunk/lib/Cake/Test/test_app/Plugin/TestPlugin/Lib
+svn://nervie.com/nervie/betasvn
+
+
+
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a14a718f-d21a-472e-8aa4-9480a30be4d8
+
+
+
+
+
+
+0
+
+Cache
+dir
+
+Custom
+dir
+
+Error
+dir
+
+Log
+dir
+
+test_plugin_library.php
+file
+
+
+
+
+2011-07-26T14:50:26.000000Z
+516677ac924e85f2df9c53dbc3aee34a
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+705
+

@@ -1,0 +1,212 @@
+10
+
+dir
+5
+svn://nervie.com/nervie/betasvn/trunk/lib/Cake
+svn://nervie.com/nervie/betasvn
+
+
+
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a14a718f-d21a-472e-8aa4-9480a30be4d8
+
+Cache
+dir
+
+Config
+dir
+
+Configure
+dir
+
+Console
+dir
+
+Controller
+dir
+
+Core
+dir
+
+Error
+dir
+
+I18n
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2011-09-02T15:43:44.000000Z
+feffb74b1a58eb2f711b3217dfcd1d1e
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1163
+
+Log
+dir
+
+Model
+dir
+
+Network
+dir
+
+Routing
+dir
+
+Test
+dir
+
+TestSuite
+dir
+
+Utility
+dir
+
+VERSION.txt
+file
+
+
+
+
+2011-09-02T15:43:49.000000Z
+41dd1ccbf67afea9385477efd1071964
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1050
+
+View
+dir
+
+basics.php
+file
+
+
+
+
+2011-09-02T15:43:44.000000Z
+974a2c439b349ead6aced93070ed14d8
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19626
+
+bootstrap.php
+file
+
+
+
+
+2011-09-02T15:43:49.000000Z
+49a64afe65229fa6a297d1b1cd836c83
+2011-09-02T14:13:42.780603Z
+4
+ramoel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3118
+
